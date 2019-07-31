@@ -16,33 +16,28 @@
 欧阳璠博士在教育技术顶级学术期刊（如，The Internet and Higher Education, British Journal of Educational Technology）发表论文数篇。定期参加教育及教育技术学界主要学术会议，同时担任会议论文同行评审，例如Association for Educational Communications & Technology Convention （AECT），International Learning Analytics and Knowledge Annual Conference （LAK），American Educational Research Association Annual Meeting （AERA），Computer-Supported Collaborative Learning Conference （CSCL）。担任顶级学术期刊（例如，Computers & Education, International Journal of Computer-Supported Collaborative Learning Conference）同行评审工作。
 
 ### 目前主持研究项目
+1. 社交网络分析方法在计算机支持的协作学习中的应用
+2. 利用教师-学生合作伙伴关系提高以学生为中心的学习
+3. 开发并应用社交-认知学习分析工具提高在线协作学习
+4. 基于知识构建理论的协作学习过程研究（合作学生：胡玥，张宇灵）
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 合作研究项目
+1. Cyberlearning: Connecting web annotations and progressive online discourse in science classrooms, principal investigator Dr. Bodong Chen
+2. The SciGirls Code project, co-principal investigator Dr. Cassie Scharber
+3. Student discussion engagement with social learning analytics, principal investigator Dr. Bodong Chen
+4. Youth engagement in technology-integrated settings, co-principal investigator Dr. Cassie Scharber
 
-```markdown
-Syntax highlighted code block
+### 教学课程
+《教育技术专题》（博士）
+《信息技术与教育》（博士）
+《网络与远程教育》（硕士）
+《网络学习行为分析》（硕士）
+《现代教育技术发展与应用》（硕士）
+《学习分析在教学设计、实践和研究中的应用》（硕士/在线MOOC）（助教：姚佳佳，孙丹）
 
-# Header 1
-## Header 2
-### Header 3
+### 合作指导博士生
+孙丹（主导师：李艳教授）
 
-- Bulleted
-- List
+### 联系我
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fanouyang/fanouyang.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+请通过邮箱fanouyang@zju.edu.cn联系我
