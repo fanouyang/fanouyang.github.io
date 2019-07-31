@@ -39,7 +39,7 @@ Scharber, C., Pazurek, A., & **Ouyang, F.** (2017). Illuminating the (in) visibi
 **Ouyang, F.** (2016). Applying the polysynchronous learning to foster the student-centered learning in the higher education context: A blended course design. *International Journal of Online Pedagogy and Course Design, 6*(3), 52-68. doi: 10.4018/IJOPCD.2016070105
 
 
-### 教学课程
+### 课程教学
 《教育技术专题》（博士）
 
 《信息技术与教育》（博士）
