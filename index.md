@@ -1,8 +1,6 @@
 ## Welcome to Fan Ouyang's website!
 
-You can use the [editor on GitHub](https://github.com/fanouyang/fanouyang.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+欧阳璠，PhD，湖南娄底人，明尼苏达大学，课程与指导系，学习技术专业。
 
 ### Markdown
 
