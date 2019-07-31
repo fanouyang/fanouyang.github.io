@@ -27,6 +27,18 @@
 3. Student discussion engagement with social learning analytics, principal investigator Dr. Bodong Chen
 4. Youth engagement in technology-integrated settings, co-principal investigator Dr. Cassie Scharber
 
+### 主要期刊论文（近五年）
+**Ouyang, F.** & Chang, Y. H. (2019). The relationship between social participatory role and cognitive engagement level in online discussions. British Journal of Educational Technology. doi: 10.1111/bjet.12647.
+
+Chen, B., Chang, Y. H., **Ouyang, F.**, & Zhou, W. Y. (2018). Fostering discussion engagement through social learning analytics. The Internet and Higher Education, 37, 21-30. doi: https://doi.org/10.1016/j.iheduc.2017.12.002
+
+**Ouyang, F.** & Scharber, C. (2017). The influences of an experienced instructor’s discussion design and facilitation on an online learning community development: A social network analysis study. The Internet and Higher Education, 35, 33-47. doi: https://doi.org/10.1016/j.iheduc.2017.07.002
+
+Scharber, C., Pazurek, A., & **Ouyang, F.** (2017). Illuminating the (in) visibility of female scholars: A gendered analysis of publishing rates within educational technology journals from 2004 to 2015. Gender and Education, 1-29. doi: 10.1080/09540253.2017.1290219
+
+**Ouyang, F.** (2016). Applying the polysynchronous learning to foster the student-centered learning in the higher education context: A blended course design. International Journal of Online Pedagogy and Course Design, 6(3), 52-68. doi: 10.4018/IJOPCD.2016070105
+
+
 ### 教学课程
 《教育技术专题》（博士）
 
@@ -44,5 +56,4 @@
 孙丹（主导师：李艳教授）
 
 ### 联系我
-
-请通过邮箱fanouyang@zju.edu.cn联系我
+fanouyang@zju.edu.cn
