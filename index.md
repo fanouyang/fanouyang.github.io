@@ -1,8 +1,9 @@
 ## Welcome to Fan Ouyang's website!
 
-欧阳璠，PhD，湖南娄底人，明尼苏达大学，课程与指导系，学习技术专业。
+欧阳璠，PhD，湖南娄底人
+毕业于明尼苏达大学，教育与人类发展学院，课程与指导系，学习技术专业。
 
-### Markdown
+### 目前研究项目
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
