@@ -13,7 +13,7 @@
 
 主要研究目为以下三方面：(1)利用学习分析技术深入理解在线和混合式教与学过程，尤其是协作学习和教学过程，(2)发展创新的教学设计和策略，例如教师-学生协作伙伴关系，以促进以学习者为中心的学习模式， 以及(3) 开发技术支持的工具，例如学习分析工具，来支持混合式和在线教学过程。
 
-欧阳璠博士在教育技术顶级学术期刊（如，The Internet and Higher Education, British Journal of Educational Technology）发表论文数篇。定期参加教育及教育技术学界主要学术会议，同时担任会议论文同行评审，例如Association for Educational Communications & Technology Convention （AECT），International Learning Analytics and Knowledge Annual Conference （LAK），American Educational Research Association Annual Meeting （AERA），Computer-Supported Collaborative Learning Conference （CSCL）。担任顶级学术期刊（例如，Computers & Education, International Journal of Computer-Supported Collaborative Learning Conference）同行评审工作。
+欧阳璠博士在教育技术顶级学术期刊（如，*The Internet and Higher Education*, *British Journal of Educational Technology*）发表论文数篇。定期参加教育及教育技术学界主要学术会议，同时担任会议论文同行评审，例如Association for Educational Communications & Technology Convention （AECT），International Learning Analytics and Knowledge Annual Conference （LAK），American Educational Research Association Annual Meeting （AERA），Computer-Supported Collaborative Learning Conference （CSCL）。担任顶级学术期刊（例如，*Computers & Education*, *International Journal of Computer-Supported Collaborative Learning Conference*）同行评审工作。
 
 ### 目前主持研究项目
 1. 社交网络分析方法在计算机支持的协作学习中的应用
