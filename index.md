@@ -1,6 +1,7 @@
 ## Welcome to Fan Ouyang's website!
 
 欧阳璠，哲学博士，湖南娄底人。
+![Image of me](https://shimo.im/files/dL9kBMzrBe2H2qK5/mmexport1559811617819.jpg)
 
 目前为浙江大学教育学院课程与学习科学系教育技术专业百人计划研究员。
 
