@@ -52,8 +52,10 @@ Scharber, C., Pazurek, A., & **Ouyang, F.** (2017). Illuminating the (in) visibi
 
 《学习分析在教学设计、实践和研究中的应用》（硕士/在线MOOC）（助教：姚佳佳，孙丹）
 
+
 ### 合作指导博士生
-孙丹（主导师：李艳教授）
+李旭 （合作导师：陈文智教授，计算机）
+孙丹（主导师：李艳教授，教育技术）
 
 ### 联系我
 fanouyang@zju.edu.cn
